@@ -1,0 +1,10 @@
+.env
+*.key
+*.pem
+*.cookie
+*.response.json
+inputs/
+outputs/
+review/
+accepted.txt
+.DS_Store
